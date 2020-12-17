@@ -35,3 +35,27 @@ Repositorio de las practicas de programacion y metodos numericos.
 2-[Codigo 4 cifras](https://github.com/DavidCanoH/Proyecto_Final_PyMN_2020_2/blob/main/Practica%203/Digitos_binarios.c)
 
 3-[Serie Fibonacci](https://github.com/DavidCanoH/Proyecto_Final_PyMN_2020_2/blob/main/Practica%203/Serie_fibonacci.c)
+
+**Practica 4:Funciones, arreglos y matrices**
+
+1-[Menu(Switch)](https://github.com/DavidCanoH/Proyecto_Final_PyMN_2020_2/blob/main/Practica%204/Switch_arreglo.c)
+
+**Practica 5: Metodos cerrados: Biseccion y falsa posicion**
+
+1-[Switch: Biseccion y Falsa posicion](https://github.com/DavidCanoH/Proyecto_Final_PyMN_2020_2/blob/main/Practica%205/Biseccion_falsa_posicion.c)
+
+**Practica 6: Metodos deNewton-Rhapson y la secante**
+
+1-[Newton-Rhapson](https://github.com/DavidCanoH/Proyecto_Final_PyMN_2020_2/blob/main/Practica%206/Newton-raphson.c)
+
+2-[Secante](https://github.com/DavidCanoH/Proyecto_Final_PyMN_2020_2/blob/main/Practica%206/Secante.c)
+
+**Practica 10: Derivacion numerica**
+
+1-[Derivacion numerica](https://github.com/DavidCanoH/Proyecto_Final_PyMN_2020_2/blob/main/Practica10/Derivacion_numerica.c)
+
+**Practica 11: Jacobi y Gauss Seidel**
+
+1-[Jacobi](https://github.com/DavidCanoH/Proyecto_Final_PyMN_2020_2/blob/main/Practica%2011/Jacobi.c)
+
+2-[Gauss Seidel](https://github.com/DavidCanoH/Proyecto_Final_PyMN_2020_2/blob/main/Practica%2011/Gauss_Seidel.c)
